@@ -358,7 +358,7 @@ export default function LandingPage() {
         rows: 5,
         required: false,
       }}
-      imageSrc="http://img.b2bpic.net/free-photo/lifestyle-concept-portrait-cheerful-happy-ginger-red-hair-girl-enjoy-listening-music-with-head_1258-119112.jpg"
+      imageSrc="https://img.b2bpic.net/premium-photo/nature-reserve-zelenci-krajnska-gora-slovenia-europe-wonderful-morning-view-zelenci-nature-reserve-slovenia-travel_527096-20490.jpg?id=42831494"
       imageAlt="AI-powered contact and support system"
       mediaAnimation="blur-reveal"
       mediaPosition="right"
