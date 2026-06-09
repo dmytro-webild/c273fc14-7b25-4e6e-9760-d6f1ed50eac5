@@ -101,7 +101,7 @@ export default function LandingPage() {
         },
         {
           id: "carousel-item-3",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-idea-concept_23-2148882592.jpg",
+          imageSrc: "https://img.b2bpic.net/premium-photo/multicultural-team-is-working-start-up-project-boardroom-they-are-brainstorming_232070-13901.jpg?id=37090890",
           imageAlt: "AI Lead Capture Funnel",
         },
         {
@@ -116,7 +116,7 @@ export default function LandingPage() {
         },
         {
           id: "carousel-item-6",
-          imageSrc: "http://img.b2bpic.net/free-photo/colorful-light-prisms-reflection_23-2148898145.jpg",
+          imageSrc: "https://img.b2bpic.net/free-photo/close-up-office-desk-with-business-team-discussting-work-project_1423-90.jpg?id=1202213",
           imageAlt: "AI Document Management System",
         },
         {
