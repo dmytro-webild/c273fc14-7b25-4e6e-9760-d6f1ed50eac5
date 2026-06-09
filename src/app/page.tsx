@@ -305,7 +305,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonial="OpsPilot AI completely transformed our lead generation and customer follow-up. Their AI systems are incredibly powerful and have allowed us to scale without adding overhead. The professionalism and expertise are truly top-tier."
       rating={5}
-      author="Sarah Chen, CEO of Innovate Solutions"
+      author=""
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/young-beautiful-african-woman-student-resting-relaxing-sitting-cafe-smiling-drinking-coffee_176420-12323.jpg",
