@@ -221,7 +221,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="Your Trusted AI Automation Partner"
       description="OpsPilot AI empowers businesses to transcend manual limitations, reduce operational overhead, and achieve remarkable scalability through intelligent AI systems. We focus on delivering tangible outcomes: freeing your team from repetitive tasks, boosting efficiency across every department, and ensuring sustainable growth without compromise. Partner with us to revolutionize your operations and navigate the future with clarity."
-      imageSrc="http://img.b2bpic.net/free-photo/multiethnic-team-engineering-specialists-working-together_482257-125974.jpg"
+      imageSrc="https://img.b2bpic.net/free-photo/businessman-pointing-his-presentation-futuristic-digital-screen_53876-102617.jpg?id=15556741"
       imageAlt="OpsPilot AI Team working on automation systems"
     />
   </div>
